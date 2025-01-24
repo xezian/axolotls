@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: frame-ancestors 'self'
+  Content-Security-Policy: frame-ancestors 'self' http://localhost:8888 *.performyard.com
